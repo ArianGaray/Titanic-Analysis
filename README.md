@@ -1,4 +1,4 @@
-🚢 Análisis de Datos del Titanic
+**🚢 Análisis de Datos del Titanic**
 Este proyecto presenta un análisis exploratorio de los datos del Titanic utilizando Python y Jupyter Notebooks. El objetivo principal es extraer información útil y patrones de los datos históricos del naufragio del Titanic. Los aspectos clave del análisis incluyen:
 
   📊 Descripción del Conjunto de Datos: Un vistazo general a las características del conjunto de datos, incluyendo el número de pasajeros, las diferentes clases, y las columnas disponibles.
